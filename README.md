@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim159
-- 👀 I’m interested in being a good leader
+- 👀 I’m interested in being a good leader and a good developer
 - 🌱 I’m currently learning react
 
 <!---
